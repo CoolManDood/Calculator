@@ -3,7 +3,7 @@
 
 /* calculator Box */
 .box {
-	background-color: #E5E7EA;
+	background-color: #05EEAE;
 	height: 300px;
 	width: 250px;
 	border-radius: 10px;
@@ -53,7 +53,7 @@
 	border-bottom: black 2px solid;
 	border-top: 2px #6f6f6f solid;
 }
-.button operator {
+.button.operator {
 	color: white;
 	background-color: #4d5966;	
 	border-bottom: black 2px solid;
