@@ -6,9 +6,9 @@ body {
 
 /* calculator Box */
 .box {
-	background-color: #060AFF;
-	height: 350px;
-	width: 250px;
+	background-image: url(dukeeatsram.jpg);
+	height: 700px;
+	width: 525px;
 	border-radius: 10px;
 	position: relative;
 	top: 80px;
