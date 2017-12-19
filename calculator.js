@@ -19,3 +19,15 @@ function e() {
 		d("Error");
 	}
 }
+
+function square() {
+	// evaluate the current equation
+	e();
+	
+	// get the value of the screen and square it
+	var x = document.getElementById("d").value;
+	x=x*x;
+	
+	// display the result
+	d(x);
+}
