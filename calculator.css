@@ -17,7 +17,7 @@ body {
 
 /* Display */
 .display {
-	background-color: #F5FF00;
+	background-color: #FB00FF;
 	width: 500px;
 	position: relative;
 	left: 15px;
@@ -29,9 +29,9 @@ body {
 	let: 2px;
 	top: 2px;
 	height: 60px;
-	width: 490px;
+	width: 480px;
 	color: black;
-	background-color: #F5FF00;
+	background-color: #FFFFFF;
 	font-size: 50px;
 	text-align: right; 
 }
@@ -52,7 +52,7 @@ body {
 	color: #00FF13;
 	background-image: url=(duke-university-58.gif);
 	border-bottom: black 2px solid;
-	border-top: 2px #6f6f6f solid;
+	background-color: #FF0004;
 }
 
 /* Simulate Button Press*/
